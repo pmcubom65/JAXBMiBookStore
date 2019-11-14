@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="no"?>
+<libros>
+<libro isbn="I9781418860646">
+<titulo tipo="P">XML Comprehensive</titulo>
+<edicion>2</edicion>
+<autor>
+<primer_nombre>Patrick</primer_nombre>
+<apellido>Carey</apellido>
+</autor>
+<fecha_publicacion>
+<mes>7</mes>
+<dia>9</dia>
+<anyo>2007</anyo>
+</fecha_publicacion>
+<tipo>nonfiction</tipo>
+<precio>70</precio>
+</libro>
+<libro isbn="I9780132240857">
+<titulo tipo="H">Systems Analysis and Design</titulo>
+<edicion>7</edicion>
+<autor>
+<primer_nombre>Kenneth</primer_nombre>
+<segundo_nombre>E</segundo_nombre>
+<apellido>Kendall</apellido>
+</autor>
+<autor>
+<primer_nombre>Julie</primer_nombre>
+<segundo_nombre>E</segundo_nombre>
+<apellido>Kendall</apellido>
+</autor>
+<fecha_publicacion>
+<mes>3</mes>
+<dia>27</dia>
+<anyo>2007</anyo>
+</fecha_publicacion>
+<tipo>nonfiction</tipo>
+<precio>166.67</precio>
+</libro>
+<libro isbn="I9780670033379">
+<titulo tipo="H">Collapse: How Societies Choose to Fail or Succeed</titulo>
+<edicion>1</edicion>
+<autor>
+<primer_nombre>Jared</primer_nombre>
+<segundo_nombre>M</segundo_nombre>
+<apellido>Diamond</apellido>
+</autor>
+<fecha_publicacion>
+<mes>12</mes>
+<dia>29</dia>
+<anyo>2004</anyo>
+</fecha_publicacion>
+<tipo>nonfiction</tipo>
+<precio>29.95</precio>
+</libro>
+<libro isbn="I9780805001112">
+<titulo tipo="P">The Grasshopper Trap</titulo>
+<autor>
+<primer_nombre>Patrick</primer_nombre>
+<segundo_nombre>F</segundo_nombre>
+<apellido>McManus</apellido>
+</autor>
+<fecha_publicacion>
+<mes>9</mes>
+<dia>15</dia>
+<anyo>1986</anyo>
+</fecha_publicacion>
+<tipo>fiction</tipo>
+<precio>14</precio>
+</libro>
+</libros>
